@@ -17,7 +17,7 @@
 
 }
 .Ourservicesmain-page2{
-    background: url("./ourserviimg.png");
+    background: url("./public/ourserviimg.png");
     background-size: cover;
     height: 800px;
     width: 100%;
@@ -45,7 +45,7 @@
     color: #FFFFFFB2;
 }
 .Ourservicesmain-page3{
-    background:url("./greypaper.jpeg");
+    background:url("./public/greypaper.jpeg");
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -114,7 +114,7 @@
     transform: rotate(-45deg);
 }
 .Ourservicesmain-page4{
-    background:url("./greypaper.jpeg");
+    background:url("./public/greypaper.jpeg");
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -128,7 +128,7 @@
     width: 135px;
     height: 38px;
     border-radius: 20px;
-    background:url("./yellowpaper.jpeg");
+    background:url("./public/yellowpaper.jpeg");
     background-size: cover;
     color: #FFFFFF;
     font-family: 'Poppins', sans-serif;

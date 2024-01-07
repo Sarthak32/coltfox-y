@@ -50,7 +50,7 @@
 }
 .Ourawards-endcont{
     margin-top: 40px;
-    background:url("./greypaper.jpeg");
+    background:url("./public/greypaper.jpeg");
     background-size: cover;
     display: flex;
     flex-direction: column;
