@@ -1,0 +1,17 @@
+.cursor{
+    width: 20px;
+    height: 20px;
+    background-color: #FCAB64;
+    border-radius: 50%;
+    position: fixed;
+    pointer-events: none;
+}
+.cursor-onbuttons{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid #FCAB64 ;
+}
+.cursor-oncont{
+    
+}
